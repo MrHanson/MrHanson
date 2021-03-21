@@ -1,4 +1,7 @@
 ### Hi there, I'm [Hanson Leung](https://mrhanson.github.io/memo)! 👋
+> console.log debugger
+> TypeError creator
+> opensource translator
 
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>

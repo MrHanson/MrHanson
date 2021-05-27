@@ -5,4 +5,3 @@
  
  - console.log debugger
  - TypeError creator
- - Game player
